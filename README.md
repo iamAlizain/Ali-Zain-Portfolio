@@ -83,9 +83,9 @@ Python, Scikit-learn, BERT, DistilBERT, ALBERT, NLP, Machine Learning, Deep Lear
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | AI-Powered Phishing Detection | Detects human-generated and AI-generated phishing emails using ML and Transformer models | Python, Scikit-learn, BERT, DistilBERT, NLP | Coming Soon |
+| Deepfake Detection API/SaaS | A web app where users upload media and get a "real vs fake" confidence score | Torch, Timm, Pandas, torchaudio, CV2, Transformers, mlflow, FastAPI, JSON, Next.js | Coming Soon |
 | LLM Chatbot | RAG-based chatbot for answering questions from custom documents | LangChain, OpenAI, FAISS | https://github.com/iamAlizain/neuraldoc-rag-chatbot |
 | Sentiment Analysis System | Text sentiment classification using NLP and deep learning models | Python, Hugging Face, PyTorch | Coming Soon |
-| Machine Learning Pipeline | End-to-end ML workflow for training, evaluation, and result analysis | Scikit-learn, Pandas, Matplotlib | Coming Soon |
 
 More projects will be added soon with complete code, documentation, results, and usage instructions.
 
